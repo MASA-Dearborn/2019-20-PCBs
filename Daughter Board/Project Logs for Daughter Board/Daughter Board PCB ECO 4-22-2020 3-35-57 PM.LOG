@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Daughter Board Member=Q?
+Added Component: Designator=*(HSEC8-120-01-L-PV-4-1 Gold Fingers)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Daughter Board Member=Component * HSEC8-120-01-L-PV-4-1
