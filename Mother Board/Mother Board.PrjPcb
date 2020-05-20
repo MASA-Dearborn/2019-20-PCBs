@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -70,6 +70,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCILMLDK
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Mother Board\Design Rule Check - Mother Board.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
