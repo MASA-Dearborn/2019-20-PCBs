@@ -1,4 +1,6 @@
 **/History/
 **/__Previews
 **/*.step
-**/"Project Logs"*/
+**/**/*.LOG
+**/**/*.drc
+**/**/*.html
