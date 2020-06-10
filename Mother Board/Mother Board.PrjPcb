@@ -71,10 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCILMLDK
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Mother Board\Design Rule Check - Mother Board.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
