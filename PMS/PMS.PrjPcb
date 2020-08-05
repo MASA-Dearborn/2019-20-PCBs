@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CRSHSXVQ
 
 [Document5]
+DocumentPath=ACCIC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XCNSKBVS
+
+[Document6]
 DocumentPath=PMS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNHNHEIM
 
-[Document6]
+[Document7]
+DocumentPath=TEMPIC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NETKIIEG
+
+[Document8]
 DocumentPath=..\Daughter Board\Daughter Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPQDUWKU
 
-[Document7]
+[Document9]
 DocumentPath=BALANCING IC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGZBDOLE
 
-[Document8]
+[Document10]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
