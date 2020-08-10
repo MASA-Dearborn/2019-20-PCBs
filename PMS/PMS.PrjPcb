@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HKWJGRXZ
+DocumentUniqueId=MMBTQGHX
 
 [Document7]
 DocumentPath=PMS.SchDoc
@@ -157,23 +157,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BNHNHEIM
 
 [Document8]
-DocumentPath=5V0BUCK.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HKWJGRXZ
-
-[Document9]
 DocumentPath=1V8BUCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRSHSXVQ
 
-[Document10]
+[Document9]
 DocumentPath=TEMPIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NETKIIEG
 
-[Document11]
+[Document10]
 DocumentPath=..\Daughter Board\Daughter Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPQDUWKU
 
-[Document12]
+[Document11]
 DocumentPath=BALANCING IC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGZBDOLE
 
-[Document13]
+[Document12]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
