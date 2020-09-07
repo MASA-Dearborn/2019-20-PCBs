@@ -1,0 +1,10 @@
+Output: PCAD Netlist
+Type  : PCADNetlist
+From  : Project [PMS.PrjPcb]
+   Generated File[3V3BUCK.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:03:03 PM On 8/13/2020
