@@ -18,8 +18,6 @@ Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kin
 Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\FPGA\FPGA.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=7|Source=..\M2RB\M2RB.PrjPcb
 Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\M2RB\M2RB.PrjPcb
-Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Microprocessor\Microprocessor.PrjPcb
-Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\Microprocessor\Microprocessor.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Mother Board\Mother Board.PrjPcb
 Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\Mother Board\Mother Board.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\PMS\PMS.PrjPcb
