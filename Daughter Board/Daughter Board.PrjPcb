@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YTBKMGXT
+DocumentUniqueId=EPQDUWKU
 
 [Document3]
 DocumentPath=..\AltiumLibs\Project Outputs for Edge Connector\Edge Connector.IntLib
@@ -87,10 +87,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Daughter Board\Design Rule Check - Daughter Board.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
