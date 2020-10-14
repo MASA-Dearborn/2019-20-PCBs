@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=ACDC.SchDoc
 Record=SheetSymbol|SourceDocument=ACDC.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Daughter Board.SchDoc|SymbolType=Normal|RawFileName=Daughter Board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ACDC.SchDoc|Designator=U_BNO055|SchDesignator=U_BNO055|FileName=BNO055.SchDoc|SymbolType=Normal|RawFileName=BNO055.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
