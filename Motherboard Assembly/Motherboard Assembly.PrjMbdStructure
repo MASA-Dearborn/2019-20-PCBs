@@ -14,6 +14,8 @@ Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-bo
 Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Mother Board - Copy\Mother Board.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\ACDC\ACDC.PrjPcb
 Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\ACDC\ACDC.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Airbrake Motor Controller\Airbrake Motor Controller.PrjPcb
+Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\Airbrake Motor Controller\Airbrake Motor Controller.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\Debug Board\Debug Board.PrjPcb
 Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\Debug Board\Debug Board.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=7|Source=..\M2RB\M2RB.PrjPcb
