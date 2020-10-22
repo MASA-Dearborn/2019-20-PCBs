@@ -24,3 +24,5 @@ Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kin
 Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\Mother Board\Mother Board.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\PMS\PMS.PrjPcb
 Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\PMS\PMS.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=6|Source=..\TransmitterBoard\TransmitterBoard.PrjPcb
+Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\TransmitterBoard\TransmitterBoard.PrjPcb
