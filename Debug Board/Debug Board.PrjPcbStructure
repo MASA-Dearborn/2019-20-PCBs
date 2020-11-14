@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Daughter Board.SchDoc
+Record=TopLevelDocument|FileName=Debug Board.SchDoc
+Record=SheetSymbol|SourceDocument=Debug Board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Daughter Board.SchDoc|SymbolType=Normal|RawFileName=Daughter Board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
