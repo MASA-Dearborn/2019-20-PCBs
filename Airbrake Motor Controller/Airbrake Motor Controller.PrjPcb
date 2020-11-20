@@ -479,8 +479,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-=======
 [Document27]
 DocumentPath=..\AltiumLibs\schottlky diode 5A.IntLib
 AnnotationEnabled=1
@@ -515,7 +513,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTPFEAFJ
 
->>>>>>> master
+[Document29]
+DocumentPath=..\AltiumLibs\FC-13532.7680KA-AC-ND.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MCTWYKRW
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
