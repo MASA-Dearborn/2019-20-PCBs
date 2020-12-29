@@ -530,26 +530,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-=======
-[Document29]
-DocumentPath=..\AltiumLibs\FC-13532.7680KA-AC-ND.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MCTWYKRW
-
->>>>>>> 7d5b5bb8e67071180353e494b6dbfbbac025d9c1
 [Configuration1]
 Name=Sources
 ParameterCount=0
