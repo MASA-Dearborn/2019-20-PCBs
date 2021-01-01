@@ -293,6 +293,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
+DocumentPath=..\AltiumLibs\BQ29200DRBT\BQ29200DRBT\BQ29200DRBT\BQ29200DRBT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IVUIIBGS
+
+[Document17]
 DocumentPath=..\AltiumLibs\SDM2U40CSP-7B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=..\AltiumLibs\KYLES NEW STUFF\2-1445096-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,9 +341,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TVOXQIKP
 
-[Document18]
+[Document19]
 DocumentPath=..\AltiumLibs\KYLES NEW STUFF\744771008.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=..\AltiumLibs\KYLES NEW STUFF\IHLP2525CZER4R7MA1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
