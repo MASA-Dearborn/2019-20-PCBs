@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=X2 Old Footprint=R38 New Footprint=FC-13532.7680KA-AC
+Change Net Name : Old Net Name=Q0 New Net Name=Q1
+Change Net Name : Old Net Name=Q1 New Net Name=Q0
+Change Class Name : Old Net Name=Q[0..1] New Net Name=Q[1..0]

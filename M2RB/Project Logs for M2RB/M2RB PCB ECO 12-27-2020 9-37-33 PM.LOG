@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=  NewDesignator=C70
+Added Pin To Net: NetName=NetR66_2 Pin=U11-P4
+Added Pin To Net: NetName=NetR67_2 Pin=U11-P5
+Added Member To Class: ClassName=Q[0..1] Member=Element[1]: Q
