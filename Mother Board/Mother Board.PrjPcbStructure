@@ -18,6 +18,7 @@ Record=SheetSymbol|SourceDocument=Mother Board Connectors.SchDoc|Designator=Desi
 Record=SheetSymbol|SourceDocument=Mother Board Connectors.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Current-LoadSwitches 3V3.SchDoc|SymbolType=Normal|RawFileName=Current-LoadSwitches 3V3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Mother Board Connectors.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Current-LoadSwitches 5V0.SchDoc|SymbolType=Normal|RawFileName=Current-LoadSwitches 5V0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Mother Board Connectors.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Current-LoadSwitches 1V8.SchDoc|SymbolType=Normal|RawFileName=Current-LoadSwitches 1V8.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+<<<<<<< HEAD
 =======
 Record=TopLevelDocument|FileName=Mother Board.SchDoc|SheetNumber= 
 Record=SheetSymbol|SourceDocument=Mother Board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MCU.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
@@ -39,3 +40,5 @@ Record=SheetSymbol|SourceDocument=Mother Board Connectors.SchDoc|Designator=Desi
 Record=SheetSymbol|SourceDocument=Mother Board Connectors.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Current-LoadSwitches 5V0.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Current-LoadSwitches 5V0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Mother Board Connectors.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Current-LoadSwitches 1V8.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Current-LoadSwitches 1V8.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 >>>>>>> ABC
+=======
+>>>>>>> BPData
