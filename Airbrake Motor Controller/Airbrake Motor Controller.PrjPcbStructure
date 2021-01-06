@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Record=TopLevelDocument|FileName=Airbrake Motor Controller.SchDoc
+=======
 Record=TopLevelDocument|FileName=Airbrake Motor Controller main.SchDoc
 Record=SheetSymbol|SourceDocument=Airbrake Motor Controller main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Accelrometer.SchDoc|SymbolType=Normal|RawFileName=Accelrometer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Airbrake Motor Controller main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Off-Board Connections.SchDoc|SymbolType=Normal|RawFileName=Off-Board Connections.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
@@ -6,3 +9,4 @@ Record=SheetSymbol|SourceDocument=Airbrake Motor Controller main.SchDoc|Designat
 Record=SheetSymbol|SourceDocument=Airbrake Motor Controller main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=5V0 +12V0 rails.SchDoc|SymbolType=Normal|RawFileName=5V0 +12V0 rails.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Airbrake Motor Controller main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=3V3 rail.SchDoc|SymbolType=Normal|RawFileName=3V3 rail.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Airbrake Motor Controller main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Motor Controller.SchDoc|SymbolType=Normal|RawFileName=Motor Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+>>>>>>> master
