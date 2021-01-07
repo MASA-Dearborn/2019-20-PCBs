@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=Q0 New Net Name=Q1
+Change Net Name : Old Net Name=Q1 New Net Name=Q0
+Change Class Name : Old Net Name=Q[1..0] New Net Name=Q[0..1]
+Added Member To Class: ClassName=Q[0..1] Member=Element[0]: Q
