@@ -4,3 +4,7 @@ Record=DiagramHierarchy|SourceDocument=BPDC Assembly.MbsDoc|Kind=Multi-board Sch
 Record=SubProject|SourceDocument=BPDC Assembly.MbsDoc|ProjectPath=LEDBoard\LEDBoard.PrjPcb
 Record=DiagramHierarchy|SourceDocument=BPDC Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Photo Diode Board\PhotoDiodeBoard.PrjPcb
 Record=SubProject|SourceDocument=BPDC Assembly.MbsDoc|ProjectPath=Photo Diode Board\PhotoDiodeBoard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=BPDC Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=Pressure Sensor\Pressure sensor.PrjPcb
+Record=SubProject|SourceDocument=BPDC Assembly.MbsDoc|ProjectPath=Pressure Sensor\Pressure sensor.PrjPcb
+Record=DiagramHierarchy|SourceDocument=BPDC Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=Pressure Sensor\Pressure sensor.PrjPcb
+Record=SubProject|SourceDocument=BPDC Assembly.MbsDoc|ProjectPath=Pressure Sensor\Pressure sensor.PrjPcb

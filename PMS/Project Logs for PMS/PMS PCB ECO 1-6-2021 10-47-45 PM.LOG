@@ -1,0 +1,11 @@
+Change Component Description : Designator=D14 Old Description=Typical INFRARED GaAs LED New Description=
+Added Pin To Net: NetName=GND Pin=J1-40
+Added Pin To Net: NetName=GND Pin=J1-41
+Added Pin To Net: NetName=GND Pin=J1-42
+Added Pin To Net: NetName=GND Pin=J1-43
+Added Pin To Net: NetName=NetJ1_24 Pin=J1-24
+Added Pin To Net: NetName=NetJ1_24 Pin=J1-25
+Added Net: Name=NetJ1_24
+Added Member To Class: ClassName=Designator Member=Component L1 Inductor
+Added Member To Class: ClassName=Designator Member=Component Q1 SIS412DN-T1-GE3
+Added Member To Class: ClassName=Designator Member=Component Q2 SIS412DN-T1-GE3

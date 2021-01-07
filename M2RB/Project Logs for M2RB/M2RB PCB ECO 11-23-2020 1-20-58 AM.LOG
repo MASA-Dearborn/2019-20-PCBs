@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=RDN Pin=U15-1
+Removed Pin From Net: NetName=RDP Pin=U15-3
+Removed Pin From Net: NetName=TDN Pin=U15-6
+Removed Pin From Net: NetName=TDP Pin=U15-8
+Added Pin To Net: NetName=TDP Pin=U15-1
+Added Pin To Net: NetName=TDN Pin=U15-3
+Added Pin To Net: NetName=RDP Pin=U15-6
+Added Pin To Net: NetName=RDN Pin=U15-8
+Added Pin To Net: NetName=RX+ Pin=J4-3
+Added Pin To Net: NetName=RX+ Pin=U15-11
+Added Net: Name=RX+
+Added Pin To Net: NetName=RX- Pin=J4-6
+Added Pin To Net: NetName=RX- Pin=U15-9
+Added Net: Name=RX-
+Added Pin To Net: NetName=TX+ Pin=J4-1
+Added Pin To Net: NetName=TX+ Pin=U15-16
+Added Net: Name=TX+
+Added Pin To Net: NetName=TX- Pin=J4-2
+Added Pin To Net: NetName=TX- Pin=U15-14
+Added Net: Name=TX-

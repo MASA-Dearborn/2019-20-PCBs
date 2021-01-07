@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=TXDFPGA0 Pin=U11-D2
+Added Net: Name=TXDFPGA0
+Added Pin To Net: NetName=TXDFPGA1 Pin=U11-D1
+Added Net: Name=TXDFPGA1
