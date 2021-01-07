@@ -513,6 +513,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document29]
+DocumentPath=..\AltiumLibs\FC-13532.7680KA-AC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -823,13 +840,13 @@ Configuration1_Item4=
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Line #=53|Comment=136|Description=79|Designator=172|Revision ID=78|Quantity=67|Value=75|Footprint=69|Manufacturer 1=99|Manufacturer Part Number 1=111|Manufacturer Lifecycle 1=135|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
+Configuration1_Item6=Line #=53|Comment=136|Description=79|Designator=172|Revision ID=78|Quantity=67|Value=75|Footprint=99|Manufacturer 1=99|Manufacturer Part Number 1=111|Manufacturer Lifecycle 1=135|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
 Configuration1_Name7=VisibleOrder_Base
-Configuration1_Item7=Line #=53|Comment=136|Description=79|Designator=172|Revision ID=78|Quantity=67|Value=75|Footprint=69|Manufacturer 1=99|Manufacturer Part Number 1=111|Manufacturer Lifecycle 1=135|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
+Configuration1_Item7=Line #=53|Comment=136|Description=79|Designator=172|Revision ID=78|Quantity=67|Value=75|Footprint=99|Manufacturer 1=99|Manufacturer Part Number 1=111|Manufacturer Lifecycle 1=135|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
 Configuration1_Name8=VisibleOrder_Consolidated
-Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Quantity=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
+Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Quantity=100|TargetPrice=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
 Configuration1_Name9=VisibleOrder_Flat
-Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
+Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|TargetPrice=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
