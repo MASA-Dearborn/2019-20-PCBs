@@ -700,10 +700,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNKMDDQD
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for M2RB\Design Rule Check - M2RB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
