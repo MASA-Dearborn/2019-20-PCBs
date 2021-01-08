@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=GND Pin=U3-16
+Removed Pin From Net: NetName=GND Pin=U3-17
+Removed Pin From Net: NetName=GND Pin=U3-18
+Removed Pin From Net: NetName=GND Pin=U3-19
+Removed Pin From Net: NetName=GND Pin=U4-16
+Removed Pin From Net: NetName=GND Pin=U4-17
+Removed Pin From Net: NetName=GND Pin=U4-18
+Removed Pin From Net: NetName=GND Pin=U4-19
+Removed Pin From Net: NetName=GND Pin=U5-16
+Removed Pin From Net: NetName=GND Pin=U5-17
+Removed Pin From Net: NetName=GND Pin=U5-18
+Removed Pin From Net: NetName=GND Pin=U5-19
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_Designator1
+Change Component Designator: OldDesignator=D2 NewDesignator=D2_Designator1
+Change Component Designator: OldDesignator=D3 NewDesignator=D3_Designator1
+Change Component Designator: OldDesignator=J1 NewDesignator=J1_Designator1
+Change Component Designator: OldDesignator=R1 NewDesignator=R1_Designator1
+Change Component Designator: OldDesignator=R2 NewDesignator=R2_Designator1
+Change Component Designator: OldDesignator=R3 NewDesignator=R3_Designator1
+Added Component: Designator=D1_Designator2(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D2_Designator2(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D3_Designator2(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J1_Designator2(HSEC8-120-01-L-PV-4-1 Gold Fingers)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Designator2(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Designator2(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R3_Designator2(1608[0603])
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1_Designator2-2
+Added Pin To Net: NetName=GND Pin=D2_Designator2-2
+Added Pin To Net: NetName=GND Pin=D3_Designator2-2
+Added Pin To Net: NetName=1V8 Pin=J1_Designator2-0
+Added Pin To Net: NetName=5V0 Pin=J1_Designator2-1
+Added Pin To Net: NetName=NetC67_2 Pin=J1_Designator2-20
+Added Pin To Net: NetName=NetC58_2 Pin=J1_Designator2-21
+Added Pin To Net: NetName=GND Pin=J1_Designator2-22
+Added Pin To Net: NetName=3V3 Pin=J1_Designator2-23
+Added Pin To Net: NetName=5V0 Pin=R1_Designator2-2
+Added Pin To Net: NetName=3V3 Pin=R2_Designator2-2
+Added Pin To Net: NetName=1V8 Pin=R3_Designator2-2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD1_Designator1_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD2_Designator1_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD3_Designator1_1
+Change Net Name : Old Net Name=NetJ1_18 New Net Name=NetJ1_Designator1_18
+Change Net Name : Old Net Name=NetJ1_19 New Net Name=NetJ1_Designator1_19
+Change Net Name : Old Net Name=NetJ1_20 New Net Name=NetJ1_Designator1_20
+Change Net Name : Old Net Name=NetJ1_21 New Net Name=NetJ1_Designator1_21
+Added Pin To Net: NetName=NetD1_Designator2_1 Pin=D1_Designator2-1
+Added Pin To Net: NetName=NetD1_Designator2_1 Pin=R1_Designator2-1
+Added Net: Name=NetD1_Designator2_1
+Added Pin To Net: NetName=NetD2_Designator2_1 Pin=D2_Designator2-1
+Added Pin To Net: NetName=NetD2_Designator2_1 Pin=R2_Designator2-1
+Added Net: Name=NetD2_Designator2_1
+Added Pin To Net: NetName=NetD3_Designator2_1 Pin=D3_Designator2-1
+Added Pin To Net: NetName=NetD3_Designator2_1 Pin=R3_Designator2-1
+Added Net: Name=NetD3_Designator2_1
+Added Pin To Net: NetName=NetJ1_Designator2_18 Pin=J1_Designator2-18
+Added Net: Name=NetJ1_Designator2_18
+Added Pin To Net: NetName=NetJ1_Designator2_19 Pin=J1_Designator2-19
+Added Net: Name=NetJ1_Designator2_19
+Added Class: Name=Daughter Board
+Added Member To Class: ClassName=Designator Member=Component L1 Inductor
+Added Member To Class: ClassName=Designator Member=Component Q1 SIS412DN-T1-GE3
+Added Member To Class: ClassName=Designator Member=Component Q2 SIS412DN-T1-GE3
