@@ -1,20 +1,10 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Justin\Desktop\2020-21-PCBs\ACDC\ACDC.PcbDoc
-Date     : 2/11/2021
-Time     : 9:24:09 PM
+PCB File : C:\Users\pr3de\Documents\MASA\2020-21-PCBs\ACDC\ACDC.PcbDoc
+Date     : 2/12/2021
+Time     : 5:09:31 PM
 
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: CGND_L01_P002 In net CGND On Top Layer
-   Polygon named: GND_L01_P000 In net GND On Top Layer
-   Polygon named: CGND_L04_P003 In net CGND On Bottom Layer
-   Polygon named: GND_L04_P001 In net GND On Bottom Layer
-
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-   Violation between Clearance Constraint: (Collision < 10mil) Between Area Fill (0mil,390mil) (350mil,3140mil) on Keep-Out Layer And Pad Free-5(175.5mil,2964.503mil) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Area Fill (0mil,390mil) (350mil,3140mil) on Keep-Out Layer And Pad Free-6(175.5mil,564.503mil) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Area Fill (4400mil,390mil) (4750mil,3140mil) on Keep-Out Layer And Pad Free-7(4575.5mil,564.503mil) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Area Fill (4400mil,390mil) (4750mil,3140mil) on Keep-Out Layer And Pad Free-8(4575.5mil,2964.503mil) on Multi-Layer 
-Rule Violations :4
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -23,11 +13,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P000) on Top Layer 
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P002) on Top Layer 
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L04_P001) on Bottom Layer 
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L04_P003) on Bottom Layer 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=5mil) (Max=201mil) (Preferred=5mil) (All)
 Rule Violations :0
@@ -57,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 8
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
