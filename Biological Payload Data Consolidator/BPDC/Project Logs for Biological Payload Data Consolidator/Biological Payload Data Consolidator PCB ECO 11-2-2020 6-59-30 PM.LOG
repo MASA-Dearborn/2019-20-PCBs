@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=VCC Pin=J1-2
+Added Component: Designator=J?(CONN_B4B-XH-A (LF)(SN)_JST)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "JST_2020-02-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "JST"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC15_2 Pin=J?-1
+Added Pin To Net: NetName=NetC14_2 Pin=J?-2
+Added Pin To Net: NetName=VCC Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator
