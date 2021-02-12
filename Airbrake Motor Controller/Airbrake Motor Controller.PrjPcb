@@ -580,6 +580,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Airbrake Motor Controller\Airbrake Motor Controller.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Airbrake Motor Controller\Design Rule Check - Airbrake Motor Controller.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
