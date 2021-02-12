@@ -40,7 +40,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Project Outputs for m20048\m20048\m20048.PcbLib
+DocumentPath=ABM3B-25.000MHZ-10-1-U-T\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -54,10 +54,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DLLDEJJM
+DocumentUniqueId=GMIVLSFD
 
 [Document2]
-DocumentPath=Project Outputs for m20048\m20048\m20048.SchLib
+DocumentPath=ABM3B-25.000MHZ-10-1-U-T\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,10 +71,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UXHWJWQV
+DocumentUniqueId=JVHTISAB
 
 [SearchPath1]
-Path=C:\Users\Justin\Desktop\2020-21-PCBs\AltiumLibs\Project Outputs for m20048\m20048\*.*
+Path=C:\Users\Justin\Desktop\2020-21-PCBs\AltiumLibs\ABM3B-25.000MHZ-10-1-U-T\*.*
 IncludeSubFolders=1
 
 [OutputGroup1]
