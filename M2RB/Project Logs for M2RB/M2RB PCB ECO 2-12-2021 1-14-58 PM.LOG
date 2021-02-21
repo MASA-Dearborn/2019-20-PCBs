@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=TXD1 Pin=U11-D1
-Removed Pin From Net: NetName=TXD0 Pin=U11-D2
-Added Pin To Net: NetName=TXD1 Pin=U11-D2
-Added Pin To Net: NetName=TXD0 Pin=U11-D3
-Added Pin To Net: NetName=NetU11_D1 Pin=U11-D1
-Added Pin To Net: NetName=NetU11_D1 Pin=U16-1
-Added Net: Name=NetU11_D1

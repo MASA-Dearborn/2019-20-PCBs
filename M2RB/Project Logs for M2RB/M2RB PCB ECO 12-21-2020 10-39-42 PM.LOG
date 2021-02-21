@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NetU7_37 Pin=U11-P10
-Removed Pin From Net: NetName=NetU7_36 Pin=U11-P11
-Added Pin To Net: NetName=NetU7_36 Pin=U11-P10
-Added Pin To Net: NetName=NetU7_37 Pin=U11-P11
-Added Member To Class: ClassName=Q[0..1] Member=Element[0]: Q

@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetD3_3 Pin=D3-2
-Removed Pin From Net: NetName=NetJ3_2 Pin=U9-5
-Removed Pin From Net: NetName=NetJ3_1 Pin=U9-7
-Added Pin To Net: NetName=NetJ3_1 Pin=U9-5
-Added Pin To Net: NetName=NetJ3_2 Pin=U9-7
-Change Room Name: Old Name=Designator_5 New Name=Designator
-Change Room Name: Old Name=Designator_4 New Name=Designator
-Change Room Name: Old Name=Designator_6 New Name=Designator
