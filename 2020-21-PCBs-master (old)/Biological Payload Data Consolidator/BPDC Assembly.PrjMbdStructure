@@ -1,6 +1,0 @@
-Record=DiagramHierarchy|SourceDocument=BPDC Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=BPDC\Biological Payload Data Consolidator.PrjPcb
-Record=SubProject|SourceDocument=BPDC Assembly.MbsDoc|ProjectPath=BPDC\Biological Payload Data Consolidator.PrjPcb
-Record=DiagramHierarchy|SourceDocument=BPDC Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=LEDBoard\LEDBoard.PrjPcb
-Record=SubProject|SourceDocument=BPDC Assembly.MbsDoc|ProjectPath=LEDBoard\LEDBoard.PrjPcb
-Record=DiagramHierarchy|SourceDocument=BPDC Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Photo Diode Board\PhotoDiodeBoard.PrjPcb
-Record=SubProject|SourceDocument=BPDC Assembly.MbsDoc|ProjectPath=Photo Diode Board\PhotoDiodeBoard.PrjPcb

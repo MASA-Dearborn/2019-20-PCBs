@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=D6-2
-Removed Pin From Net: NetName=CLK/PDC Pin=P2-4
-Removed Pin From Net: NetName=DAT/PGD Pin=P2-5
-Added Pin To Net: NetName=DAT/PGD Pin=P2-4
-Added Pin To Net: NetName=CLK/PDC Pin=P2-5
-Added Room: Name=Sheet1
