@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Airbrake Motor Controller.PrjPcb]
+   Generated File[Airbrake Motor Controller.TXT]
+   Generated File[Airbrake Motor Controller.LDP]
+   Generated File[Airbrake Motor Controller.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:18:33 PM On 1/12/2021
