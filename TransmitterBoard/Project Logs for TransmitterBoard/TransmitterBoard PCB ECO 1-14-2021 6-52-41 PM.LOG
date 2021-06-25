@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=P1 Old Footprint=1SH-A-02-TS-SMT New Footprint=2-1445096-2
-Change Component Footprint: Designator=P2 Old Footprint=1SH-A-02-TS-SMT New Footprint=2-1445096-2
-Added Member To Class: ClassName=TransmitterBoard Member=Component C2 Cap
-Added Member To Class: ClassName=TransmitterBoard Member=Component C23 Cap
-Added Member To Class: ClassName=TransmitterBoard Member=Component LS1 Buzzer
