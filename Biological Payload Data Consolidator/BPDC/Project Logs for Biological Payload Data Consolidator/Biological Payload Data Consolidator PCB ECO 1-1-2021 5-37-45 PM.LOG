@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=NetP2_3 Pin=U2-5
-Removed Pin From Net: NetName=MCLR Pin=U2-33
-Added Pin To Net: NetName=NetP2_3 Pin=U2-4
-Added Pin To Net: NetName=NetU2_5 Pin=U2-5
-Added Pin To Net: NetName=NetU2_5 Pin=U5-14
-Added Pin To Net: NetName=NetU2_5 Pin=U24-14
-Added Net: Name=NetU2_5
