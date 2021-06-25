@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=I0 Pin=J23-1
-Removed Pin From Net: NetName=I1 Pin=J24-1
-Removed Pin From Net: NetName=Q1 Pin=J27-1
-Removed Pin From Net: NetName=Q0 Pin=J28-1
-Change Net Name : Old Net Name=Q0 New Net Name=Q1
-Change Net Name : Old Net Name=Q1 New Net Name=Q0
-Change Class Name : Old Net Name=Q[0..1] New Net Name=Q[1..0]
