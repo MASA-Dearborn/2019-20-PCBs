@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetU11_G1 Pin=U16-15
-Removed Pin From Net: NetName=NetU11_H1 Pin=U16-16
-Added Pin To Net: NetName=NetU11_H1 Pin=U16-15
-Added Pin To Net: NetName=NetU11_G1 Pin=U16-16
