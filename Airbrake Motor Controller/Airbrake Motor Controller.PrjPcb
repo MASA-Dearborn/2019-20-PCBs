@@ -71,7 +71,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UEFIROBN
+DocumentUniqueId=GBDJKPIQ
 
 [Document3]
 DocumentPath=..\AltiumLibs\Project Outputs for ABC Integrated Library\ABC Integrated Library.IntLib
@@ -531,6 +531,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document30]
+DocumentPath=..\..\..\..\..\Documents\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Airbrake Motor Controller\Airbrake Motor Controller.DRR
