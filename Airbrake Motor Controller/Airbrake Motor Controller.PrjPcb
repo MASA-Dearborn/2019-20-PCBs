@@ -533,7 +533,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
-DocumentPath=..\..\..\..\..\Documents\AltiumLL\SamacSys.PcbLib
+DocumentPath=..\AltiumLibs\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -548,6 +548,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
+
+[Document31]
+DocumentPath=..\AltiumLibs\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Airbrake Motor Controller\Airbrake Motor Controller.DRR
