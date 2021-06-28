@@ -758,7 +758,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document43]
-DocumentPath=..\..\AltiumLibs\Project Outputs for 25M20P2\25M20P2.IntLib
+DocumentPath=Ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -775,7 +775,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document44]
-DocumentPath=Ethernet.Harness
+DocumentPath=..\AltiumLibs\Project Outputs for 25M20P2\25M20P2.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
