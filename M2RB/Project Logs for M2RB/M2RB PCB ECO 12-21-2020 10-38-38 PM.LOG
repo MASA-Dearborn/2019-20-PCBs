@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=NetR23_2 Pin=U11-N11
-Added Pin To Net: NetName=NetU7_37 Pin=U11-P10
-Added Pin To Net: NetName=NetU7_36 Pin=U11-P11
-Added Pin To Net: NetName=NetR20_1 Pin=U11-P12
-Change Net Name : Old Net Name=Q0 New Net Name=Q1
-Change Net Name : Old Net Name=Q1 New Net Name=Q0
-Change Class Name : Old Net Name=Q[1..0] New Net Name=Q[0..1]
