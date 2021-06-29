@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DB4 Pin=U11-J13
+Removed Pin From Net: NetName=DB3 Pin=U11-J14
+Added Pin To Net: NetName=DB3 Pin=U11-J13
+Added Pin To Net: NetName=DB4 Pin=U11-J14

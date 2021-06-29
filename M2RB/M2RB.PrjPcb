@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -32,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=9EE03629-F3A2-4E9E-ACCE-598981E87670
+VaultGUID=BFFFF03E-6E6E-4930-B0C4-E23493373FEC
+ReleaseVaultName=MASA Dearborn
+ItemGUID=9EE03629-F3A2-4E9E-ACCE-598981E87670
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -702,6 +706,91 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNKMDDQD
 
+[Document40]
+DocumentPath=..\AltiumLibs\Project Outputs for SIT8008ACL13-18E-100.000000E\SIT8008ACL13-18E-100.000000E.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document41]
+DocumentPath=..\AltiumLibs\Project Outputs for SLG59M1495VTR\SLG59M1495VTR.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=..\AltiumLibs\Project Outputs for KSZ8091MNXCA\KSZ8091MNXCA.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document43]
+DocumentPath=Ethernet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document44]
+DocumentPath=..\AltiumLibs\Project Outputs for 25M20P2\25M20P2.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for M2RB\Design Rule Check - M2RB.html
 DItemRevisionGUID=
@@ -715,6 +804,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_CoDesigner Mechatronic Panel]
+LastAcknowledgment=2021-03-30T23:19:03.0000000Z
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -821,12 +913,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1054,6 +1156,18 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1638,34 +1752,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Edge Connector.IntLib
-ComponentDesignItemID0=HSEC8-120-01-L-PV-4-1
-ComponentSymbolReference0=HSEC8-120-01-L-PV-4-1
+ComponentLibraryIdentifier0=KSZ8091MNXCA.IntLib
+ComponentDesignItemID0=KSZ8091MNXCA
+ComponentSymbolReference0=KSZ8091MNXCA
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Miscellaneous Devices.IntLib
-ComponentDesignItemID1=LED2
-ComponentSymbolReference1=LED2
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Miscellaneous Devices.IntLib
-ComponentDesignItemID2=Res3
-ComponentSymbolReference2=Res3
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=SKY65111.IntLib
-ComponentDesignItemID3=SKY65111
-ComponentSymbolReference3=SKY65111
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1685,62 +1781,13 @@ ParameterName1=Component Kind
 ParameterUpdate1=1
 ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=LatestRevisionDate
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=LatestRevisionNote
-ParameterUpdate4=1
-ParameterName5=Library Reference
-ParameterUpdate5=1
-ParameterName6=PackageDescription
-ParameterUpdate6=1
-ParameterName7=PackageReference
-ParameterUpdate7=1
-ParameterName8=PackageVersion
-ParameterUpdate8=1
-ParameterName9=Published
-ParameterUpdate9=1
-ParameterName10=Publisher
-ParameterUpdate10=1
-ParameterName11=Supplier 1
-ParameterUpdate11=1
-ParameterName12=Value
-ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=12Z-2010
+ModelName0=KSZ8091MNXCA
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=14-1210
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=3.2X1.6X1.1
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=HSEC8-120-01-L-PV-4-1 Gold Fingers
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=J1-0603
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=RESC6332
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=SKY65111
-ModelUpdate6=1
-ModelTypeGroup1=SI
-ModelTypeUpdate1=1
-ModelType7=SI
-ModelName7=Res
-ModelUpdate7=1
-ModelTypeGroup2=SIM
-ModelTypeUpdate2=1
-ModelType8=SIM
-ModelName8=LED2
-ModelUpdate8=1
-ModelType9=SIM
-ModelName9=RESISTOR
-ModelUpdate9=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
