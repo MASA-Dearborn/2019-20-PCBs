@@ -316,13 +316,21 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
+<<<<<<< HEAD
 DocumentPath=USB to SPI.SchDoc
+=======
+DocumentPath=..\AltiumLibs\Project Outputs for 74LVC1T45GF,132\74LVC1T45GF,132.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=16
+=======
+AnnotateOrder=-1
+>>>>>>> M2RBBranch
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -330,10 +338,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=PSVHWIGS
 
 [Document18]
 DocumentPath=..\AltiumLibs\Project Outputs for 74LVC1T45GF,132\74LVC1T45GF,132.IntLib
+=======
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=M2RB.BomDoc
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -350,13 +365,21 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
+<<<<<<< HEAD
 DocumentPath=M2RB.BomDoc
+=======
+DocumentPath=..\Common Circuits\CAN 3V3.SchDoc
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=-1
+=======
+AnnotateOrder=17
+>>>>>>> M2RBBranch
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -364,16 +387,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=
 
 [Document20]
 DocumentPath=..\Common Circuits\CAN 3V3.SchDoc
+=======
+DocumentUniqueId=GOPPRLAZ
+
+[Document20]
+DocumentPath=..\Common Circuits\LSM6DSMTR.SchDoc
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=17
+=======
+AnnotateOrder=18
+>>>>>>> M2RBBranch
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -381,16 +415,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=GOPPRLAZ
 
 [Document21]
 DocumentPath=..\Common Circuits\LSM6DSMTR.SchDoc
+=======
+DocumentUniqueId=XCNSKBVS
+
+[Document21]
+DocumentPath=..\Common Circuits\TMP235AQDB2TQ1.SchDoc
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=18
+=======
+AnnotateOrder=19
+>>>>>>> M2RBBranch
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -398,16 +443,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=XCNSKBVS
 
 [Document22]
 DocumentPath=..\Common Circuits\TMP235AQDB2TQ1.SchDoc
+=======
+DocumentUniqueId=NETKIIEG
+
+[Document22]
+DocumentPath=..\AltiumLibs\PTS 647 SK38 SMTR2 LFS.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=19
+=======
+AnnotateOrder=-1
+>>>>>>> M2RBBranch
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -415,10 +471,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=NETKIIEG
 
 [Document23]
 DocumentPath=..\AltiumLibs\PTS 647 SK38 SMTR2 LFS.IntLib
+=======
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=..\AltiumLibs\Project Outputs for RJULE4218201\RJULE4218201.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -435,7 +498,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
+<<<<<<< HEAD
 DocumentPath=..\AltiumLibs\Project Outputs for RJULE4218201\RJULE4218201.IntLib
+=======
+DocumentPath=..\AltiumLibs\Project Outputs for SKY65111\SKY65111.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -452,7 +519,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
+<<<<<<< HEAD
 DocumentPath=..\AltiumLibs\Project Outputs for SKY65111\SKY65111.IntLib
+=======
+DocumentPath=..\AltiumLibs\D5V0L2B3W-7 library\Project Outputs for D5V0L2B3W-7 library\D5V0L2B3W-7 library.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -469,7 +540,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
+<<<<<<< HEAD
 DocumentPath=..\AltiumLibs\D5V0L2B3W-7 library\Project Outputs for D5V0L2B3W-7 library\D5V0L2B3W-7 library.IntLib
+=======
+DocumentPath=..\AltiumLibs\Project Outputs for TPS7A9101DSKT\TPS7A9101DSKT.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -486,7 +561,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
+<<<<<<< HEAD
 DocumentPath=..\AltiumLibs\Project Outputs for TPS7A9101DSKT\TPS7A9101DSKT.IntLib
+=======
+DocumentPath=..\AltiumLibs\Project Outputs for TC1-1-13MA+\TC1-1-13MA+.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -503,7 +582,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
+<<<<<<< HEAD
 DocumentPath=..\AltiumLibs\Project Outputs for TC1-1-13MA+\TC1-1-13MA+.IntLib
+=======
+DocumentPath=..\AltiumLibs\Imported M24128-BWMN6TP.lia\Project Outputs for M24128-BWMN6TP\M24128-BWMN6TP.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -520,7 +603,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
+<<<<<<< HEAD
 DocumentPath=..\AltiumLibs\Imported M24128-BWMN6TP.lia\Project Outputs for M24128-BWMN6TP\M24128-BWMN6TP.IntLib
+=======
+DocumentPath=..\AltiumLibs\DP83825I.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -537,7 +624,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
+<<<<<<< HEAD
 DocumentPath=..\AltiumLibs\DP83825I.IntLib
+=======
+DocumentPath=..\AltiumLibs\CANTRAN3V3\Project Outputs for CANTRAN3V3\CANTRAN3V3.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -554,13 +645,17 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
+<<<<<<< HEAD
 DocumentPath=..\AltiumLibs\CANTRAN3V3\Project Outputs for CANTRAN3V3\CANTRAN3V3.IntLib
+=======
+DocumentPath=Modulator.SchDoc
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -568,9 +663,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LIDODDZH
 
 [Document32]
+<<<<<<< HEAD
 DocumentPath=Modulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -623,12 +719,15 @@ DocumentUniqueId=EIJGAPYS
 
 [Document35]
 DocumentPath=..\AltiumLibs\Project Outputs for MAX2623EUA+T\MAX2623EUA+T.IntLib
+=======
+DocumentPath=RF DAC.SchDoc
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=21
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -636,16 +735,21 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NBLBPCDP
 
+<<<<<<< HEAD
 [Document36]
 DocumentPath=..\AltiumLibs\MIC94310-PYMT-TR.IntLib
+=======
+[Document33]
+DocumentPath=LO.SchDoc
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=22
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -653,10 +757,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EIJGAPYS
 
+<<<<<<< HEAD
 [Document37]
 DocumentPath=..\AltiumLibs\7B-10.000MEEQ-T.IntLib
+=======
+[Document34]
+DocumentPath=..\AltiumLibs\Project Outputs for MAX2623EUA+T\MAX2623EUA+T.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -672,8 +781,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
 [Document38]
 DocumentPath=..\AltiumLibs\Project Outputs for 5029\5029.IntLib
+=======
+[Document35]
+DocumentPath=..\AltiumLibs\MIC94310-PYMT-TR.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -689,6 +803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
 [Document39]
 DocumentPath=..\AltiumLibs\FC-13532.7680KA-AC.PcbLib
 AnnotationEnabled=1
@@ -708,6 +823,10 @@ DocumentUniqueId=QNKMDDQD
 
 [Document40]
 DocumentPath=..\AltiumLibs\Project Outputs for SIT8008ACL13-18E-100.000000E\SIT8008ACL13-18E-100.000000E.IntLib
+=======
+[Document36]
+DocumentPath=..\AltiumLibs\7B-10.000MEEQ-T.IntLib
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -723,7 +842,62 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
 [Document41]
+DocumentPath=..\AltiumLibs\Project Outputs for SLG59M1495VTR\SLG59M1495VTR.IntLib
+=======
+[Document37]
+DocumentPath=..\AltiumLibs\Project Outputs for 5029\5029.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document38]
+DocumentPath=..\AltiumLibs\FC-13532.7680KA-AC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QNKMDDQD
+
+[Document39]
+DocumentPath=..\AltiumLibs\Project Outputs for SIT8008ACL13-18E-100.000000E\SIT8008ACL13-18E-100.000000E.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document40]
 DocumentPath=..\AltiumLibs\Project Outputs for SLG59M1495VTR\SLG59M1495VTR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -740,6 +914,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document41]
+DocumentPath=..\AltiumLibs\Project Outputs for KSZ8091MNXCA\KSZ8091MNXCA.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=Ethernet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document43]
+DocumentPath=..\AltiumLibs\Project Outputs for 25M20P2\25M20P2.IntLib
+>>>>>>> M2RBBranch
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+<<<<<<< HEAD
 [Document42]
 DocumentPath=..\AltiumLibs\Project Outputs for KSZ8091MNXCA\KSZ8091MNXCA.IntLib
 AnnotationEnabled=1
@@ -776,6 +1003,10 @@ DocumentUniqueId=
 
 [Document44]
 DocumentPath=..\AltiumLibs\Project Outputs for 25M20P2\25M20P2.IntLib
+=======
+[Document44]
+DocumentPath=FPGA Data.Harness
+>>>>>>> M2RBBranch
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
