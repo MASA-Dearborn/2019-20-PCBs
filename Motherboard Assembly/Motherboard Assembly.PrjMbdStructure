@@ -1,17 +1,4 @@
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=7|Source=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=6|Source=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Daughter Board - Copy\Daughter Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Mother Board - Copy\Mother Board.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Mother Board - Copy\Mother Board.PrjPcb
+Record=TopLevelDocument|FileName=Motherboard Assembly.MbaDoc
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\ACDC\ACDC.PrjPcb
 Record=SubProject|SourceDocument=Motherboard Assembly Schematic.MbsDoc|ProjectPath=..\ACDC\ACDC.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Motherboard Assembly Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=8|Source=..\Airbrake Motor Controller\Airbrake Motor Controller.PrjPcb

@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -32,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=9EE03629-F3A2-4E9E-ACCE-598981E87670
+VaultGUID=BFFFF03E-6E6E-4930-B0C4-E23493373FEC
+ReleaseVaultName=MASA Dearborn
+ItemGUID=9EE03629-F3A2-4E9E-ACCE-598981E87670
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -176,23 +180,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EPQDUWKU
 
 [Document9]
-DocumentPath=TPS7A9101DSKT.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JPDHIICZ
-
-[Document10]
 DocumentPath=..\AltiumLibs\Project Outputs for XC7S25-1FTGB196C\XC7S25-1FTGB196C.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\AltiumLibs\ECS-TXO-2520-33-400-AN-TR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\AltiumLibs\PL133-27GC-R.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\AltiumLibs\Project Outputs for XRCGB32M000F1H00R0\XRCGB32M000F1H00R0.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=SPIflash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHHGCGDX
 
-[Document15]
+[Document14]
 DocumentPath=Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGKWXKGX
 
-[Document16]
+[Document15]
 DocumentPath=..\AltiumLibs\Project Outputs for AT25SL641_113\AT25SL641_113.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,24 +298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
-DocumentPath=USB to SPI.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=16
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PSVHWIGS
-
-[Document18]
+[Document16]
 DocumentPath=..\AltiumLibs\Project Outputs for 74LVC1T45GF,132\74LVC1T45GF,132.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -345,7 +315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=M2RB.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -362,7 +332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=..\Common Circuits\CAN 3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -379,7 +349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOPPRLAZ
 
-[Document21]
+[Document19]
 DocumentPath=..\Common Circuits\LSM6DSMTR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -396,7 +366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCNSKBVS
 
-[Document22]
+[Document20]
 DocumentPath=..\Common Circuits\TMP235AQDB2TQ1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -413,7 +383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NETKIIEG
 
-[Document23]
+[Document21]
 DocumentPath=..\AltiumLibs\PTS 647 SK38 SMTR2 LFS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document22]
 DocumentPath=..\AltiumLibs\Project Outputs for RJULE4218201\RJULE4218201.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -447,7 +417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document23]
 DocumentPath=..\AltiumLibs\Project Outputs for SKY65111\SKY65111.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -464,7 +434,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document24]
 DocumentPath=..\AltiumLibs\D5V0L2B3W-7 library\Project Outputs for D5V0L2B3W-7 library\D5V0L2B3W-7 library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -481,7 +451,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document25]
 DocumentPath=..\AltiumLibs\Project Outputs for TPS7A9101DSKT\TPS7A9101DSKT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -498,7 +468,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document26]
 DocumentPath=..\AltiumLibs\Project Outputs for TC1-1-13MA+\TC1-1-13MA+.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +485,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document27]
 DocumentPath=..\AltiumLibs\Imported M24128-BWMN6TP.lia\Project Outputs for M24128-BWMN6TP\M24128-BWMN6TP.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,7 +502,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document28]
 DocumentPath=..\AltiumLibs\DP83825I.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -549,7 +519,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document29]
 DocumentPath=..\AltiumLibs\CANTRAN3V3\Project Outputs for CANTRAN3V3\CANTRAN3V3.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +536,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document30]
 DocumentPath=Modulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -583,7 +553,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIDODDZH
 
-[Document33]
+[Document31]
 DocumentPath=RF DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -600,7 +570,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBLBPCDP
 
-[Document34]
+[Document32]
 DocumentPath=LO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -617,7 +587,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EIJGAPYS
 
-[Document35]
+[Document33]
 DocumentPath=..\AltiumLibs\Project Outputs for MAX2623EUA+T\MAX2623EUA+T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -634,7 +604,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document34]
 DocumentPath=..\AltiumLibs\MIC94310-PYMT-TR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -651,7 +621,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document35]
 DocumentPath=..\AltiumLibs\7B-10.000MEEQ-T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -668,7 +638,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document36]
 DocumentPath=..\AltiumLibs\Project Outputs for 5029\5029.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -685,7 +655,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document37]
 DocumentPath=..\AltiumLibs\FC-13532.7680KA-AC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -702,6 +672,176 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNKMDDQD
 
+[Document38]
+DocumentPath=..\AltiumLibs\Project Outputs for SIT8008ACL13-18E-100.000000E\SIT8008ACL13-18E-100.000000E.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document39]
+DocumentPath=..\AltiumLibs\Project Outputs for SLG59M1495VTR\SLG59M1495VTR.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document40]
+DocumentPath=..\AltiumLibs\Project Outputs for KSZ8091MNXCA\KSZ8091MNXCA.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document41]
+DocumentPath=Ethernet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=..\AltiumLibs\Project Outputs for 25M20P2\25M20P2.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document43]
+DocumentPath=FPGA Data.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document44]
+DocumentPath=..\AltiumLibs\Project Outputs for MMZ09312BT1\MMZ09312BT1.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document45]
+DocumentPath=1V0 Rail.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=23
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FMUXHKWP
+
+[Document46]
+DocumentPath=..\AltiumLibs\Project Outputs for LDL112PU10R\LDL112PU10R.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document47]
+DocumentPath=..\AltiumLibs\Project Outputs for 830016178\830016178.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for M2RB\Design Rule Check - M2RB.html
 DItemRevisionGUID=
@@ -715,6 +855,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_CoDesigner Mechatronic Panel]
+LastAcknowledgment=2021-03-30T23:19:03.0000000Z
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -821,12 +964,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1054,6 +1207,18 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1638,34 +1803,22 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Edge Connector.IntLib
-ComponentDesignItemID0=HSEC8-120-01-L-PV-4-1
-ComponentSymbolReference0=HSEC8-120-01-L-PV-4-1
+ComponentLibraryIdentifier0=830016178.IntLib
+ComponentDesignItemID0=830016178
+ComponentSymbolReference0=830016178
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Miscellaneous Devices.IntLib
-ComponentDesignItemID1=LED2
-ComponentSymbolReference1=LED2
+ComponentLibraryIdentifier1=KSZ8091MNXCA.IntLib
+ComponentDesignItemID1=KSZ8091MNXCA
+ComponentSymbolReference1=KSZ8091MNXCA
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Miscellaneous Devices.IntLib
-ComponentDesignItemID2=Res3
-ComponentSymbolReference2=Res3
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=SKY65111.IntLib
-ComponentDesignItemID3=SKY65111
-ComponentSymbolReference3=SKY65111
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1685,62 +1838,16 @@ ParameterName1=Component Kind
 ParameterUpdate1=1
 ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=LatestRevisionDate
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=LatestRevisionNote
-ParameterUpdate4=1
-ParameterName5=Library Reference
-ParameterUpdate5=1
-ParameterName6=PackageDescription
-ParameterUpdate6=1
-ParameterName7=PackageReference
-ParameterUpdate7=1
-ParameterName8=PackageVersion
-ParameterUpdate8=1
-ParameterName9=Published
-ParameterUpdate9=1
-ParameterName10=Publisher
-ParameterUpdate10=1
-ParameterName11=Supplier 1
-ParameterUpdate11=1
-ParameterName12=Value
-ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=12Z-2010
+ModelName0=830016178
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=14-1210
+ModelName1=KSZ8091MNXCA
 ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=3.2X1.6X1.1
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=HSEC8-120-01-L-PV-4-1 Gold Fingers
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=J1-0603
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=RESC6332
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=SKY65111
-ModelUpdate6=1
-ModelTypeGroup1=SI
-ModelTypeUpdate1=1
-ModelType7=SI
-ModelName7=Res
-ModelUpdate7=1
-ModelTypeGroup2=SIM
-ModelTypeUpdate2=1
-ModelType8=SIM
-ModelName8=LED2
-ModelUpdate8=1
-ModelType9=SIM
-ModelName9=RESISTOR
-ModelUpdate9=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

@@ -1,0 +1,7 @@
+Added Component: Designator=X3(SIT8008ACL13-18E-100.000000E)
+Added Pin To Net: NetName=1V8 Pin=X3-1
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=1V8 Pin=X3-3
+Added Pin To Net: NetName=NetU11_H11 Pin=U11-H11
+Added Pin To Net: NetName=NetU11_H11 Pin=X3-4
+Added Net: Name=NetU11_H11

@@ -1,0 +1,10 @@
+Output: Motherboard Assembly Flat
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Motherboard Assembly.PrjMbd]
+   Generated File[Motherboard Assembly Flat.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:46:34 PM On 3/19/2021
