@@ -33,10 +33,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=9EE03629-F3A2-4E9E-ACCE-598981E87670
-VaultGUID=BFFFF03E-6E6E-4930-B0C4-E23493373FEC
-ReleaseVaultName=MASA Dearborn
-ItemGUID=9EE03629-F3A2-4E9E-ACCE-598981E87670
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
