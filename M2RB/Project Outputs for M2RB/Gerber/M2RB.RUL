@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\pr3de\Documents\MASA\2020-21-PCBs\M2RB\M2RB.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=SolderMaskExpansion|RuleName=ViaSolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.54
+RuleKind=Width|RuleName=50OhmWidth|Scope=Board|Minimum=6.79
+RuleKind=Width|RuleName=60OhmWidth|Scope=Board|Minimum=4.59
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.54
