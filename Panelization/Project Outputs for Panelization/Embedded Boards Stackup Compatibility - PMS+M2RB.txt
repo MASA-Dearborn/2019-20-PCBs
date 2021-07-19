@@ -1,0 +1,15 @@
+Stackup Compatibility
+Filename     : C:\Users\pr3de\Documents\MASA\2020-21-PCBs\Panelization\PMS+M2RB.PcbDoc
+Date         : 7/19/2021
+Time         : 5:27:01 PM
+Time Elapsed : 00:00:00
+
+ERROR : 2 incompatible layer(s) found in the embedded boards placed in the current PCB panel document.
+
+M2RB, PMS, PMS+M2RB
+    Top Layer (Signal), Top Layer (Signal), Top Layer (Signal)
+    Layer 1 (Plane), Layer 1 (Plane), --------
+    Layer 2 (Plane), Layer 2 (Plane), --------
+    Bottom Layer (Signal), Bottom Layer (Signal), Bottom Layer (Signal)
+    Open Layer Stack Manager, Open Layer Stack Manager, Open Layer Stack Manager
+count : 5
