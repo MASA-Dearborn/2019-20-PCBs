@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TransmitterBoard.PcbDoc]
+   Generated File[TransmitterBoard.TXT]
+   Generated File[TransmitterBoard.LDP]
+   Generated File[TransmitterBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:33:40 PM On 7/20/2021
