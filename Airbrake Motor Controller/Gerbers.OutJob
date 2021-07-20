@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Gerbers.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -52,9 +52,9 @@ ReleaseManaged1=1
 OutputBasePath1=Project Outputs for Airbrake Motor Controller
 OutputPathMedia1=
 OutputPathMediaValue1=
-OutputPathOutputer1=[Output Type]
+OutputPathOutputer1=[Output Custom]
 OutputPathOutputerPrefix1=
-OutputPathOutputerValue1=
+OutputPathOutputerValue1=ABC
 OutputFileName1=
 OutputFileNameMulti1=
 UseOutputNameForMulti1=1

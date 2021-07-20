@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=BPDCGerbers.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -47,14 +47,14 @@ Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\ProgramData\Altium\Altium Designer {81DBCD41-01C3-4C87-B1C7-53CB6303BD58}\VaultEditCache\F66EF597-AA76-4B51-AF2E-7B3044D9C03F\Released\[ProjectName].PcbDoc
 
 [PublishSettings]
-OutputFilePath1=Project Outputs for Free Documents\
+OutputFilePath1=C:\Users\pr3de\Documents\MASA\2020-21-PCBs\Panelization\Project Outputs for Panelization\
 ReleaseManaged1=1
 OutputBasePath1=Project Outputs for Panelization
 OutputPathMedia1=
 OutputPathMediaValue1=
-OutputPathOutputer1=[Output Type]
+OutputPathOutputer1=[Output Custom]
 OutputPathOutputerPrefix1=
-OutputPathOutputerValue1=
+OutputPathOutputerValue1=BPDC
 OutputFileName1=
 OutputFileNameMulti1=
 UseOutputNameForMulti1=1
@@ -62,7 +62,7 @@ OutputFileNameSpecial1=
 OpenOutput1=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath1=Project Outputs for Free Documents\
+RelativeOutputPath1=C:\Users\pr3de\Documents\MASA\2020-21-PCBs\Panelization\Project Outputs for Panelization\
 OpenOutputs1=0
 AddToProject1=0
 TimestampFolder1=0
